@@ -1,0 +1,11 @@
+/node_modules
+/data
+/scrapes
+.DS_STORE
+.tmp
+.privateDetails.json
+*.txt
+*.sw?
+*.csv
+*.rtf
+*.~lock.*
